@@ -1,0 +1,7 @@
+2023/02/04 04:04:56 [notice] 16660#3352: signal process started
+2023/02/04 04:04:59 [notice] 12556#11492: signal process started
+2023/02/04 04:11:48 [error] 1968#15852: *7 connect() failed (10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión) while connecting to upstream, client: 127.0.0.1, server: app_nginx_node, request: "GET /api/randoms HTTP/1.1", upstream: "http://127.0.0.1:8085/api/randoms", host: "localhost"
+2023/02/04 04:12:07 [error] 1968#15852: *67 connect() failed (10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión) while connecting to upstream, client: 127.0.0.1, server: app_nginx_node, request: "GET /api/randoms HTTP/1.1", upstream: "http://127.0.0.1:8085/api/randoms", host: "localhost"
+2023/02/04 04:16:27 [notice] 16404#4776: signal process started
+2023/02/04 16:47:48 [notice] 7628#3576: signal process started
+2023/02/04 16:47:55 [notice] 15108#14808: signal process started
